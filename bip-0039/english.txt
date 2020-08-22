@@ -1,3 +1,10 @@
+cmd
+hacking
+private
+bitcoin
+api
+stripe
+combo
 abandon
 ability
 able
